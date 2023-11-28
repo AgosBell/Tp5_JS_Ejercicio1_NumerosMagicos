@@ -5,10 +5,11 @@ body{
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background:rgb(75, 92, 222);
+    background-image: url(../img/8389460.jpg);
     background-size: cover;
     background-position: center;
     color: rgb(4, 10, 52);
+    font-family: poppins;
   }
 
   .container {
@@ -16,3 +17,15 @@ body{
     padding: 20px;
     border-radius: 10px;
 }
+
+footer {
+    background-color: rgba(245, 239, 239, 0.8);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: poppins;
+    color: rgb(4, 10, 52);
+  }
