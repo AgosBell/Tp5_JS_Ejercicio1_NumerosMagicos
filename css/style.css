@@ -1,7 +1,18 @@
-body {
+
+body{
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
     margin: 0;
+    background:rgb(75, 92, 222);
+    background-size: cover;
+    background-position: center;
+    color: rgb(4, 10, 52);
   }
+
+  .container {
+    background-color: rgba(245, 239, 239, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
